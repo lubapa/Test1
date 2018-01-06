@@ -1,0 +1,5 @@
+1) git clone [URL]  //Obtiene el archivo desde github.com
+2) git add [nombrearchivo.extension] // agrega el repositorio
+3) git status //revisa las diferencias
+4) git commit -m "Mensaje" // comentario  -m:darle un mensaje 
+5) git push // lo sube a github.
